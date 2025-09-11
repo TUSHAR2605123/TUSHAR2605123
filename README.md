@@ -1,7 +1,4 @@
-         -- Smart Learn --
-- Secure Login & Registration system
-- Profile management for each student
--Student wall for sharing quick posts & updates
+Smart Learn is a Streamlit-based platform where students can connect, share knowledge, and collaborate through profiles, blogs, and posts.
 
 
 <!---
